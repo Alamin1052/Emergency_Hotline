@@ -7,3 +7,9 @@
 .inter-font{
     font-family: "Inter", sans-serif;
 }
+
+.copy-btn:hover{
+ background-color: rgb(38, 1, 73);
+ color: white;
+ cursor: pointer;
+}
