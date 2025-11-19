@@ -1,14 +1,12 @@
 # Emergency Hotline 🚨
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://LIVE_URL)  
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
-
 ---
 
 ## 🔖 Project Overview
 **Emergency Hotline** is a lightweight, responsive frontend web app that provides quick access to emergency contact numbers and services. It's built with modern frontend tools and focuses on accessibility, simplicity, and a clean user experience — ideal for showcasing frontend skills and a deployable GitHub Pages demo.
 
-**Live demo:** `https://alamin1052.github.io/Emergency_Hotline/` (replace with your `LIVE_URL` if different)
+**Live demo:** https://alamin1052.github.io/Emergency_Hotline/
+
 
 ---
 
@@ -29,3 +27,16 @@
 ---
 
 ## 📁 Repository Structure (example)
+Emergency_Hotline/
+├─ assets/ # images, icons
+├─ styles/ # custom CSS (if any)
+├─ index.html
+├─ script.js
+├─ README.md
+└─ tailwind.config.js
+
+## 🚀 Quick Start (Run locally)
+1. Clone the repo  
+```bash
+git clone https://github.com/YOUR_USERNAME/Emergency_Hotline.git
+cd Emergency_Hotline
